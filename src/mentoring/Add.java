@@ -9,7 +9,7 @@ public class Add {
         int number;
         Scanner input= new Scanner(System.in);
 
-        System.out.println(" Enter your number");
+        System.out.println(" Enter your number please");
 
         number =input.nextInt();
 
